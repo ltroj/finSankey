@@ -1,0 +1,71 @@
+Gehalt/Lohn [418.8] Einkünfte
+Kapitalerträge [6.2] Einkünfte
+Beteiligungen [0.0] Kapitalerträge
+Wertpapier-Erträge [4.5] Kapitalerträge
+Kindergeld [23.7] Einkünfte
+Sonstige Einnahmen [428.3] Einkünfte
+Geschenke & Gewinne [36.8] Sonstige Einnahmen
+Lohnersatzleistungen [68.2] Sonstige Einnahmen
+Elterngeld [68.2] Lohnersatzleistungen
+Privatverkäufe [1.6] Sonstige Einnahmen
+Steuer-Erstattungen [15.3] Sonstige Einnahmen
+Einkommensteuer-Erstattung [15.3] Steuer-Erstattungen
+Zubuchung [297.6] Sonstige Einnahmen
+Einkünfte [37.0] Bar- und Kreditkartenzahlungen
+Bar- und Kreditkartenzahlungen [10.7] Barabhebung
+Bar- und Kreditkartenzahlungen [10.3] Kreditkarte
+Bar- und Kreditkartenzahlungen [15.9] PayPal
+Einkünfte [59.9] Freizeit
+Freizeit [1.5] Bücher
+Freizeit [5.2] Gastronomie & Hotel
+Freizeit [7.1] Hobby
+Freizeit [12.5] Unterhaltung & Spiele
+Unterhaltung & Spiele [0.4] Kino
+Freizeit [23.9] Urlaub
+Freizeit [2.3] Vereine & Verbände & Mitgliedschaften
+Vereine & Verbände & Mitgliedschaften [0.6] Berufsverbände
+Vereine & Verbände & Mitgliedschaften [1.3] Vereine
+Einkünfte [148.0] Haushalt & Lebenshaltung
+Haushalt & Lebenshaltung [20.9] Bekleidung & Schuhe
+Haushalt & Lebenshaltung [2.3] Büroausgaben
+Büroausgaben [0.3] Computer & Zubehör
+Büroausgaben [0.1] Porto
+Haushalt & Lebenshaltung [10.5] Elektrogeräte
+Haushalt & Lebenshaltung [8.0] Geschenke
+Haushalt & Lebenshaltung [3.6] Gesundheit
+Gesundheit [3.6] Medikamente
+Haushalt & Lebenshaltung [9.3] Kommunikation & Information
+Kommunikation & Information [1.8] GEZ-Gebühren
+Kommunikation & Information [1.8] Internet
+Kommunikation & Information [3.9] Telefon
+Haushalt & Lebenshaltung [59.1] Nahrungsmittel & Getränke
+Haushalt & Lebenshaltung [28.5] Pflege & Reinigung
+Pflege & Reinigung [0.5] Pflege
+Haushalt & Lebenshaltung [2.1] Versicherungen
+Einkünfte [22.2] Kinder
+Kinder [13.7] Kindergarten & Betreuung
+Einkünfte [0.4] Sonstige Ausgaben
+Einkünfte [153.7] Sparen & Vorsorge
+Sparen & Vorsorge [0.8] Kontogebühren & Zinsen
+Sparen & Vorsorge [140.8] Sparen
+Sparen [140.8] Depot/Vermögensverw.
+Sparen & Vorsorge [0.0] Steuern
+Sparen & Vorsorge [12.1] Vorsorge
+Vorsorge [11.8] Lebensversicherung
+Einkünfte [54.7] Spenden
+Einkünfte [25.0] Verkehr & Mobilität
+Verkehr & Mobilität [3.9] KFZ-Reparaturen und -Zubehör
+Verkehr & Mobilität [0.7] KFZ-Steuer (privat)
+Verkehr & Mobilität [5.2] KFZ-Versicherung
+Verkehr & Mobilität [0.1] Öffentliche Verkehrsmittel
+Verkehr & Mobilität [0.0] Parkgebühren
+Verkehr & Mobilität [0.1] Strafen
+Verkehr & Mobilität [11.7] Treibstoff
+Einkünfte [119.8] Wohnen
+Wohnen [2.2] Außenanlagen
+Wohnen [6.0] Nebenkosten
+Nebenkosten [6.1] Strom
+Wohnen [2.1] Renovierung & Reparaturen
+Wohnen [106.2] Warmmiete
+Wohnen [2.8] Wohnungsausstattung
+Einkünfte [1.8] Keine
