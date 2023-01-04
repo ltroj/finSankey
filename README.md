@@ -1,5 +1,9 @@
 # finSankey
- Create sankey diagrams from a (cashflow) Excel sheet
+Create sankey diagrams from a (cashflow) Excel sheet.
+Returns a plotly plot of your diagram as well as a text file for the popular sankeymatic.com.
+
+## Input file
+See ```cashflow_randomized.xlsx``` as a template spreadsheet file.
 
 ## Usage
 ```python
@@ -24,3 +28,10 @@ income, expenses, df, data, node_labels, link_sources, link_targets, link_vals =
 fig = sankey(data, title)
 fig.show()
 ```
+## Outputs
+
+### Plot from ```finSankey.sankey```
+![alt text](https://github.com/ltroj/finSankey/blob/main/sankey_plot.png?raw=true)
+
+### Text file from ```finSankey.sankey_to_text```
+The resulting text file can be used as an input file on https://sankeymatic.com/.
