@@ -1,4 +1,4 @@
-# ➾ finSankey
+# 📊 finSankey
 Create sankey diagrams from a (cashflow) Excel sheet.
 
 Returns a plotly plot of your diagram as well as a text file for the popular online diagram builder [SankeyMATIC](https://sankeymatic.com/).
